@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/language-python-orange.svg">&nbsp;
 <a href="https://travis-ci.org/NCSU-S/Repo-Example"><img src="https://travis-ci.org/NCSU-S/Repo-Example.svg?branch=master" /></a>
+<a href="https://doi.org/NCSU-S/Repo-Example"><img src="https://zenodo.org/badge/DOI/NCSU-S/Repo-Example.svg" alt="DOI"></a>
 <img src="https://img.shields.io/badge/license-MIT-green.svg">&nbsp;
 </p> 
 
