@@ -3,12 +3,8 @@ python:
  - "2.7"
  - "3.7"
 
-branches:
- only:
-  - master
-
 install:
  - pip install -r requirements.txt
- - python setup.py -q install
+ - python setup.py install
 script:
- - python setup.py pytest
+ - python pytest
